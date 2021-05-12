@@ -1,0 +1,16 @@
+{
+    "name": "Blockshain",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/symbol": "blk",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "100000000",
+        "/category/asset_value_tracking/token/name": "Blockshain",
+        "/category/collection/entity": true
+    }
+}
